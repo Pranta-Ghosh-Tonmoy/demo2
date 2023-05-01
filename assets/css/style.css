@@ -355,6 +355,10 @@ body {
   box-shadow: 0px 2px 9px rgba(50, 71, 92, 0.06), 0px 4px 9px 1px rgba(50, 71, 92, 0.04), 0px 2px 6px 4px rgba(50, 71, 92, 0.02);
 }
 
+#filter form{
+  padding-top:48px;
+}
+
 #filter .main_filter form table tr td,
 #filter .main_filter form table tr td a {
   font-family: 'Roboto';
